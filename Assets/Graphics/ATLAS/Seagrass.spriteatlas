@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Seagrass
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 22cf3b373b3d23c49b8f92b289a19f98, type: 3}
+    totalSpriteSurfaceArea: 15818831
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: f817414c8bb49a8a54366b9cd1f8efeb
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 75af684067e8a104b81e730bd06da28c, type: 3}
+  - {fileID: 21300000, guid: 524c766148fe410479e181fd5b43658d, type: 3}
+  - {fileID: 21300000, guid: c2376f24bfebc554eb823c54d5457c50, type: 3}
+  - {fileID: 21300000, guid: b40b50646e23b044690389f9ff5fb6fc, type: 3}
+  - {fileID: 21300000, guid: 15e699a5baacd934492b3d4394fdfc49, type: 3}
+  - {fileID: 21300000, guid: 053fb0e52164ec84b98178d0fa94a34c, type: 3}
+  - {fileID: 21300000, guid: 105269f5499c0d94c80a5bdf2fb7507c, type: 3}
+  - {fileID: 21300000, guid: bbd4b469af410034b9ee4e476f7387d1, type: 3}
+  - {fileID: 21300000, guid: 8c4b8d1c8f905d0418f799a7924d36ae, type: 3}
+  - {fileID: 21300000, guid: aea76d9d5a555aa43957a63fd3314c79, type: 3}
+  - {fileID: 21300000, guid: cdbc67ce46e781b4dab5336054a30d54, type: 3}
+  - {fileID: 21300000, guid: bc1100de63d7a234481cbc5cafbeae42, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SeaLeaf03
+  - SeaGrass01
+  - SeaGrass07
+  - SeaGrass06
+  - SeaLeaf04
+  - SeaLeaf05
+  - SeaGrass04
+  - SeaLeaf01
+  - SeaLeaf02
+  - Spots
+  - SeaPlant06
+  - SeaGrass05
+  m_Tag: Seagrass
+  m_IsVariant: 0

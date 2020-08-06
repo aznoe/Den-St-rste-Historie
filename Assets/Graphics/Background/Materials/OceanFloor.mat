@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OceanFloor
+  m_Shader: {fileID: -6465566751694194690, guid: 62ba0e51dc8e6422db1c69a6a029ee68,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_90C12455:
+        m_Texture: {fileID: 2800000, guid: a8068458daf5d4cfbb4e9321d8ee2c21, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CCDE2C4D:
+        m_Texture: {fileID: 2800000, guid: 6d537c84beee90748971b12d5d61b0e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DE26DF0E:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 6d537c84beee90748971b12d5d61b0e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6d537c84beee90748971b12d5d61b0e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2B3DD2AB_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c85916e76bc2d284c98c317067c17672, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7741837C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f3d6183ecf9ef8242ad4e3137873d938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C0D98DEF_Texture_1:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_572C6764: -3.27
+    - Vector1_6422D04B: 0
+    - Vector1_7CE059F4: 0.06
+    - Vector1_7FD0DAFF: -0.64
+    - Vector1_92406B3D: -0.13
+    - Vector1_9A7EFDB9: 1
+    - Vector1_F728CAB: 0
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _QueueOffset: 0
+    - _SampleGI: 0
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _ZWrite: 1
+    m_Colors:
+    - Color_2300B583: {r: 0, g: 0.85490227, b: 1, a: 0}
+    - Color_2F0A4A32: {r: 0, g: 0, b: 0.003914586, a: 1}
+    - Color_306ACEEB: {r: 0.078431375, g: 0.14117648, b: 0.9411765, a: 0}
+    - Color_3DF80357: {r: 0.21960784, g: 0.7490196, b: 0.39607844, a: 0.3764706}
+    - Color_4EDE919E: {r: 0.5254902, g: 0.5647059, b: 0.5647059, a: 1}
+    - Color_AACADB69: {r: 1, g: 0.96862745, b: 0.96862745, a: 0.1882353}
+    - Vector2_37B188FE: {r: 3, g: 3, b: 0, a: 0}
+    - Vector2_8C0919D2: {r: 0.01, g: -0.41, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+--- !u!114 &4510840402561951153
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1

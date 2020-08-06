@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Plant
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 70d07c9a98f284b0ebb51541a85dfbe0, type: 3}
+    totalSpriteSurfaceArea: 17195656
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 40b9ddd1cd1bac6fc4e9b8a3b94ceaef
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e05be8c2e763a4f0a90478c481c7e6cf, type: 3}
+  - {fileID: 21300000, guid: fc018e53738224ab88d0ceba36ed963d, type: 3}
+  - {fileID: 21300000, guid: df5f1e149077a421198b829dbe5cc681, type: 3}
+  - {fileID: 21300000, guid: 0af77af50693247ed9ef0916269e263f, type: 3}
+  - {fileID: 21300000, guid: 13a3dc2b51beb4a178f5c527f76c1424, type: 3}
+  - {fileID: 21300000, guid: 47669c5b4a93546d08c943424b6af40f, type: 3}
+  - {fileID: 21300000, guid: e089a16c5e66e47c5b2af0b8ce3059de, type: 3}
+  - {fileID: 21300000, guid: 22605add0be034053994f6978c3e058b, type: 3}
+  - {fileID: 21300000, guid: f8776b8eba9ed4ee6a9bbf597ca69abe, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dyr07
+  - dyr10
+  - dyr02
+  - dyr05
+  - dyr08
+  - dyr09
+  - dyr01
+  - dyr06
+  - dyr03
+  m_Tag: New Plant
+  m_IsVariant: 0

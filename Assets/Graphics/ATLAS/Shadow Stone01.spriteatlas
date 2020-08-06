@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shadow Stone01
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5a687e5ca6e744139a1e40067c0cec68, type: 3}
+    totalSpriteSurfaceArea: 11996614
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 371054e2341c4767bf086c1ffd728cc5
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 49ee37a1ec8aeb645802be8b2c555f1c, type: 3}
+  - {fileID: 21300000, guid: 0a5ee502fcce8b249a233e7fd9ac1d20, type: 3}
+  - {fileID: 21300000, guid: 908309d2b2eb6854f88b3abafb8957a7, type: 3}
+  - {fileID: 21300000, guid: 9b1b1bd262835bb4f9ae918e7991b952, type: 3}
+  - {fileID: 21300000, guid: 808880e2eb110834daea3e1ac6b6a50f, type: 3}
+  - {fileID: 21300000, guid: 894ea1f25ecc52143af5b275e00a39b8, type: 3}
+  - {fileID: 21300000, guid: 8b768e0392dae39418d6a856f8834924, type: 3}
+  - {fileID: 21300000, guid: dc478243775080a49907effe0490e272, type: 3}
+  - {fileID: 21300000, guid: 96a0b763cd341284eb610dca1308419b, type: 3}
+  - {fileID: 21300000, guid: 52c03a93e455f3347bdf980eb71d7c8c, type: 3}
+  - {fileID: 21300000, guid: a15a9304dfbd49b40a01040fd7f99f99, type: 3}
+  - {fileID: 21300000, guid: 1b4c84f575021e74195e0b2fd7a1f1cb, type: 3}
+  - {fileID: 21300000, guid: 14f792e6138e5aa4da56c2153a7b67bc, type: 3}
+  - {fileID: 21300000, guid: 16c67b474e3b0cc49979132cc13fd49b, type: 3}
+  - {fileID: 21300000, guid: e4ed1fb751c123040a6b506bed4f5efa, type: 3}
+  - {fileID: 21300000, guid: 82dd4928eef1e8c44ac993fb39cc8500, type: 3}
+  - {fileID: 21300000, guid: ce5ba2982cc18b340b74d70d54fa5931, type: 3}
+  - {fileID: 21300000, guid: 7c483998de3f91941b3094e9f69de3d3, type: 3}
+  - {fileID: 21300000, guid: fdb6ca981e930c84da56d7c8e6077749, type: 3}
+  - {fileID: 21300000, guid: 6f3dc8a8557b18e4bad42a7d3e17654c, type: 3}
+  - {fileID: 21300000, guid: b3e64659b97cdc8498906cbd2bc8bc38, type: 3}
+  - {fileID: 21300000, guid: 61da913a0b590e94896e25d8f592bd8c, type: 3}
+  - {fileID: 21300000, guid: c0390deaee533924ca7f69870af2b34c, type: 3}
+  - {fileID: 21300000, guid: aecf489bbd00d2741ba9e2ae1b12949b, type: 3}
+  - {fileID: 21300000, guid: 67c3d2bc7b71a1a47af300a1e55625cf, type: 3}
+  - {fileID: 21300000, guid: 90f7ecfcd427828478774dc531ef6fa1, type: 3}
+  - {fileID: 21300000, guid: a453931de19144a47940c8298a2b6062, type: 3}
+  - {fileID: 21300000, guid: efb0ad3d6a296b54e9612a8015e42e3a, type: 3}
+  - {fileID: 21300000, guid: 3faceced7de2134479eb1b9c8d51d9d4, type: 3}
+  - {fileID: 21300000, guid: b9d3720e23aaf264da337d44b1f08c47, type: 3}
+  - {fileID: 21300000, guid: 59fca01ed627d0344bb8f47e84460259, type: 3}
+  - {fileID: 21300000, guid: 54e07a2e0b647754e9bd3df335a2bb5c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ShadowStone15
+  - ShadowStone07
+  - ShadowStone24
+  - ShadowStone29
+  - ShadowStone27
+  - ShadowStone16
+  - ShadowStone28
+  - ShadowStone08
+  - ShadowStone02
+  - ShadowStone14
+  - ShadowStone06
+  - ShadowStone21
+  - ShadowStone30
+  - ShadowStone03
+  - ShadowStone19
+  - ShadowStone10
+  - ShadowStone20
+  - ShadowStone25
+  - ShadowStone22
+  - ShadowStone13
+  - ShadowStone23
+  - ShadowStone05
+  - ShadowStone31
+  - ShadowStone01
+  - ShadowStone32
+  - ShadowStone12
+  - ShadowStone26
+  - ShadowStone18
+  - ShadowStone11
+  - ShadowStone17
+  - ShadowStone09
+  - ShadowStone04
+  m_Tag: Shadow Stone01
+  m_IsVariant: 0

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stone Organ
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 747ec97a59ea94f468f788bc733f01ed, type: 3}
+    totalSpriteSurfaceArea: 6671827
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 21e0bb380becd29160dcef14136ca465
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b170a703f47d3164db971e7e0164bda6, type: 3}
+  - {fileID: 21300000, guid: 63d78345145147846b95c43f37b952d5, type: 3}
+  - {fileID: 21300000, guid: 3d8f5b09b8791e549bb1cdadea0a4921, type: 3}
+  - {fileID: 21300000, guid: bddcf20c87d996c43896aec01fe69748, type: 3}
+  - {fileID: 21300000, guid: 52cdde0d38074704dae16a5e1fcb64b0, type: 3}
+  - {fileID: 21300000, guid: 7cbd0d8f4789dbb48a90cca13b5ac825, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - StoneOrganism04
+  - Asset01
+  - StoneOrganism02
+  - StoneOrganism01
+  - StonePlant02
+  - StonePlant01
+  m_Tag: Stone Organ
+  m_IsVariant: 0

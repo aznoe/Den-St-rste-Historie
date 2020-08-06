@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Akarelskygger
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7207c00ce041141159d869d04691387d, type: 3}
+    totalSpriteSurfaceArea: 22005760
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: a23002d7a678b8037db71d2ff681435d
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8a8c3c547bcc04e94aae45fe3cdcd77b, type: 3}
+  - {fileID: 21300000, guid: ff048185d16e34805825d5c024f119b7, type: 3}
+  - {fileID: 21300000, guid: ab12fc26e6991493fb2182031b94c50c, type: 3}
+  - {fileID: 21300000, guid: 19844aa7fa6d44b0d8ec7ba3133dadd3, type: 3}
+  - {fileID: 21300000, guid: 4a31a75973888479d8bd352a64a8ffdf, type: 3}
+  - {fileID: 21300000, guid: 8a72723bc75314e6e830cb3e280451e3, type: 3}
+  - {fileID: 21300000, guid: 24144c4e443344abfb31bce60d3194f9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - AkvarelSkygger4
+  - AkvarelSkygger5
+  - pletter
+  - AkvarelSkygger
+  - Untitled_Artwork2
+  - AkvarelSkygger3
+  - AkvarelSkygger2
+  m_Tag: Akarelskygger
+  m_IsVariant: 0

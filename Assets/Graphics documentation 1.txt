@@ -1,0 +1,10 @@
+We use a lot of atlas for performance reasons and most of the folders in here
+are linked to an atlas in the ATLAS folder. Be aware that that Unity seems to
+have a problem on IOS that makes any atlas bigger than 4096 turn everything in 
+the atlas to a pink/orange color instead of what it is supposed to be. 
+If you are adding a new image to a folder check that the corresponding atlas is 
+still working and that it has room for the image place in the folder. 
+
+NOTE: We have not removed any of the unused sprites from the folders
+because we thought they might be used on a later date (The are not part of atlases that are used in the scene)
+

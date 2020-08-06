@@ -1,0 +1,10 @@
+“cleaned animations' and “dsh-archea-animation-signe” are animations used
+in “the one timeline” in “akt1”. The “dsh-fangest” is used for the time 
+“timelinebakterie” and “timelinealge” in “akt1”. 
+
+Someone accidently used some of the the non cleaned versions of the 
+animations for “the one timeline” so we are using parts of 
+“cleaned animations” and “dsh-archea-animation-signe” at the same time 
+while we should only be using “cleaned animations”
+
+

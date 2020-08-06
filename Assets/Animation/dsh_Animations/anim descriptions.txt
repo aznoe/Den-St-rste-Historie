@@ -1,0 +1,10 @@
+NAME				DESCRIPTION
+dsh-archaea-loop2		idle loop of first, empty archaea
+dsh-littleone-loop1		idle loop of little cell
+dsh-littleone-swim		loop of little cell swimming
+dsh-archaea-eats		anim of empty archaea eating the cell
+dsh-new-archaea-loop2		idle loop of new archaea
+
+
+
+

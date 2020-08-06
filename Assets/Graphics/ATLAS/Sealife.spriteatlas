@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sealife
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 10b20f6205937864fb435bb430440898, type: 3}
+    totalSpriteSurfaceArea: 13163684
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 753e3219406a89ab3267e52ecf92476d
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4355a1e0cf62f184189dd4a940198df5, type: 3}
+  - {fileID: 21300000, guid: 9e28dfe0c2d01b347b51f3a35ac7d733, type: 3}
+  - {fileID: 21300000, guid: 7400b281656d41c46831e503a39344d7, type: 3}
+  - {fileID: 21300000, guid: 0bbdb5819e6aa804593b4bfee9dcab5b, type: 3}
+  - {fileID: 21300000, guid: 05e52c81a70dd6146a258b9dc63bf314, type: 3}
+  - {fileID: 21300000, guid: ff0488d119c0466449a7957676c1b1b9, type: 3}
+  - {fileID: 21300000, guid: 4c41fb82df733ce4ca029cf5dda06e5a, type: 3}
+  - {fileID: 21300000, guid: 9fb7b1b2656cf7d49b354307acddc7e9, type: 3}
+  - {fileID: 21300000, guid: b6e549844d6afff49b9afee4bb361f48, type: 3}
+  - {fileID: 21300000, guid: 8d6210b466974724a89277ad642402a3, type: 3}
+  - {fileID: 21300000, guid: 780907657e144e04d9982b08cb6baa95, type: 3}
+  - {fileID: 21300000, guid: df6feb1656de5ab4c982a6cfeb8dd610, type: 3}
+  - {fileID: 21300000, guid: 96071d46118be7e4db74954724cc51d8, type: 3}
+  - {fileID: 21300000, guid: 8cbd4a66a4969a143961c320e437c715, type: 3}
+  - {fileID: 21300000, guid: 9ea6a5b6e18bf6f4e805d49ee28d3096, type: 3}
+  - {fileID: 21300000, guid: 231c01d6e267db64ea7a4e0c0f17e5bc, type: 3}
+  - {fileID: 21300000, guid: e11a5b17dafdffe40ae823f7928748ec, type: 3}
+  - {fileID: 21300000, guid: e3c447987a097b442980ead32371721e, type: 3}
+  - {fileID: 21300000, guid: bb651839a7d902646bea7b10ae7c418c, type: 3}
+  - {fileID: 21300000, guid: f07d48d9f62a7a64c8a773ec53077da2, type: 3}
+  - {fileID: 21300000, guid: a53be2e99850f8d4a8bbd94a4b6fd26f, type: 3}
+  - {fileID: 21300000, guid: 9e3e722a49cc6db47858aa6d2e12f491, type: 3}
+  - {fileID: 21300000, guid: cca4b9aaa6d25d44f986e30e3807d7be, type: 3}
+  - {fileID: 21300000, guid: fa8970ba13b275342821c6433df47bd6, type: 3}
+  - {fileID: 21300000, guid: aa03ac4b7759c61468065ab9c25694fc, type: 3}
+  - {fileID: 21300000, guid: e199bfbbf65faae409b6b4e516ccc18f, type: 3}
+  - {fileID: 21300000, guid: 56bfaaeb7151edb45b63db4fb88a723f, type: 3}
+  - {fileID: 21300000, guid: 3f9376ce982f90f4084e0e309d060cc4, type: 3}
+  - {fileID: 21300000, guid: 40c0800f91f4028468e2a36fd3c10a42, type: 3}
+  - {fileID: -7627760559584287998, guid: c0905b7fed13b084fbc6b0e82be6882d, type: 3}
+  - {fileID: -6359838222474376567, guid: c0905b7fed13b084fbc6b0e82be6882d, type: 3}
+  - {fileID: 277417501304162903, guid: c0905b7fed13b084fbc6b0e82be6882d, type: 3}
+  - {fileID: -296617305407795140, guid: c0905b7fed13b084fbc6b0e82be6882d, type: 3}
+  - {fileID: -9179442147119246887, guid: c0905b7fed13b084fbc6b0e82be6882d, type: 3}
+  - {fileID: 2633838937148987725, guid: c0905b7fed13b084fbc6b0e82be6882d, type: 3}
+  - {fileID: 21300000, guid: a7abd19f385f7ca41aa396d7f740eed9, type: 3}
+  - {fileID: 21300000, guid: 422addcf9deaeb347b41f053896e585f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Dyr02
+  - SmallOrganism10
+  - Dyr03
+  - SmallOrganism08
+  - Dyr05
+  - SmallOrganism01
+  - Dyr07
+  - SmallOrganism11
+  - SmallOrganism03
+  - Dyr19
+  - Dyr01
+  - SmallOrganism09
+  - Dyr12
+  - SmallOrganism07
+  - SmallOrganism02
+  - Dyr16
+  - Dyr13
+  - Dyr10
+  - SmallOrganism12
+  - Dyr04
+  - Dyr17
+  - Dyr08
+  - Dyr11
+  - Dyr15
+  - SmallOrganism06
+  - Dyr18
+  - SmallOrganism05
+  - SmallOrganism04
+  - Dyr14
+  - SkyggeDyrSpritesheet_10
+  - SkyggeDyrSpritesheet_3
+  - SkyggeDyrSpritesheet_7
+  - SkyggeDyrSpritesheet_6
+  - SkyggeDyrSpritesheet_4
+  - SkyggeDyrSpritesheet_9
+  - Dyr06
+  - Dyr09
+  m_Tag: Sealife
+  m_IsVariant: 0

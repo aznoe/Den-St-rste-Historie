@@ -1,0 +1,9 @@
+If you are using the main branch of the gitlab project the project is 
+ONLY suppused to work on VR and not on IOS or andriod.
+Use the VR scene insted of the normal “akt1” and “akt3”. 
+If you want to build for the IOS version use the branch on gitlab called IOS2 insted. 
+
+When in the non VR scene you can move the camera around using the arrow keys or wasd. 
+In the VR version clicking with the mouse begins to jump to the scene at index 0 of the build scene. 
+Pressing and holding down “space” skips the current timeline in VR. 
+

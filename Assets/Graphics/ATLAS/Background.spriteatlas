@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0ce2f8d25865b4a14a8d463b4c2698fb, type: 3}
+    totalSpriteSurfaceArea: 14861712
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 189dd45b1514f4c18190e2ba9948255b
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9dd2391152d86064d9792042b211d088, type: 3}
+  - {fileID: 21300000, guid: c9dcf122d4492e64b8af221e1b570fee, type: 3}
+  - {fileID: 21300000, guid: 09736e3393bab47dd9c951456a0413f9, type: 3}
+  - {fileID: 21300000, guid: 38b83ae3355600a478cdf7399c27c9d3, type: 3}
+  - {fileID: 21300000, guid: 4eaa821442d12b744b1e2016998bd2b8, type: 3}
+  - {fileID: 21300000, guid: 6d537c84beee90748971b12d5d61b0e6, type: 3}
+  - {fileID: 21300000, guid: 1ecfb195e842fb842b4c163962c20c45, type: 3}
+  - {fileID: 21300000, guid: bc159595c7cddf640b45c067b233bc5b, type: 3}
+  - {fileID: 21300000, guid: 7a4038c5438bcb146a8dc76f9128369c, type: 3}
+  - {fileID: 21300000, guid: d1f05ff939ada0c48832436f867a1bab, type: 3}
+  - {fileID: 21300000, guid: 3ff7a03aacc3c604381fb92d0fef1d01, type: 3}
+  - {fileID: 21300000, guid: ecd0c34a4c4f4174e8217de804c15fef, type: 3}
+  - {fileID: 21300000, guid: cbb50c8ba8d591343a5e3ff1476fea36, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Lightbeam06
+  - Lightbeam01
+  - lysstraale3
+  - Blue Ocean Effect 02
+  - Dust
+  - Floor
+  - Lightbeam02
+  - Lightbeam03
+  - Floor shader
+  - Floor shader 2
+  - Lightbeam05
+  - Lightbeam04
+  - Lysstraale4
+  m_Tag: Background
+  m_IsVariant: 0
